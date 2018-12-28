@@ -4,7 +4,7 @@
 #
 Name     : kernel-config-checker
 Version  : 1
-Release  : 1
+Release  : 2
 URL      : https://github.com/clearlinux/kernel-config-checker/archive/1.tar.gz
 Source0  : https://github.com/clearlinux/kernel-config-checker/archive/1.tar.gz
 Summary  : No detailed summary available
